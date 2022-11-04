@@ -2,7 +2,7 @@
 
 Platform: CodeSignal
 
-Prompt: https://app.codesignal.com/interview-practice/question/uX5iLwhc6L5ckSyNC/description
+Prompt: https://app.codesignal.com/interview-practice/question/uX5iLwhc6L5ckSyNC
 
 Language: Python3
 
